@@ -1,0 +1,4 @@
+dict1 ={'Name':'Steve', 'Age':30, 'Designation':'Programmer'}  
+print("len() method :", len(dict1))  
+print("len() method with keys() :", len(dict1.keys()))   
+print("len() method with values():", len(dict1.values()))
